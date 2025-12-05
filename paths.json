@@ -1,13 +1,19 @@
 {
   "mappings": [
     "/content/6932ae1f689ef53e374b11e4/language-masters/en:/",
-    "/content/6932ae1f689ef53e374b11e4/language-masters/en/:/",
     "/content/6932ae1f689ef53e374b11e4/language-masters/en/:/en/",
+    "/content/6932ae1f689ef53e374b11e4/language-masters/fr/:/fr/",
+    "/content/6932ae1f689ef53e374b11e4/language-masters/fr:/fr",
+    "/content/6932ae1f689ef53e374b11e4/language-masters/es/:/es/",
+    "/content/6932ae1f689ef53e374b11e4/language-masters/es:/es",
+    "/content/6932ae1f689ef53e374b11e4/language-masters/ja/:/ja/",
+    "/content/6932ae1f689ef53e374b11e4/language-masters/ja:/ja",
+    "/content/6932ae1f689ef53e374b11e4/language-masters/de/:/de/",
+    "/content/6932ae1f689ef53e374b11e4/language-masters/de:/de",
     "/content/6932ae1f689ef53e374b11e4/configuration:/.helix/config.json",
     "/content/6932ae1f689ef53e374b11e4/metadata:/metadata.json",
     "/content/6932ae1f689ef53e374b11e4/redirects:/redirects.json",
-    "/content/6932ae1f689ef53e374b11e4/placeholders:/placeholders.json",
-    "/content/6932ae1f689ef53e374b11e4.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/6932ae1f689ef53e374b11e4/placeholders:/placeholders.json"
   ],
   "includes": [
     "/content/6932ae1f689ef53e374b11e4/",
